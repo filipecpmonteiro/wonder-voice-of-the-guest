@@ -1,0 +1,104 @@
+@import "tailwindcss";
+
+@theme {
+  /* Wonder palette: deep navy ink + warm coral/orange accent on a clean off-white.
+     Variable names kept as --color-pink-* so component classNames don't churn;
+     the values are the Wonder accent (a confident coral, not candy pink). */
+  --color-pink-50: #fff4ec;
+  --color-pink-100: #ffe2cc;
+  --color-pink-200: #ffc498;
+  --color-pink-300: #ffa15c;
+  --color-pink-400: #ff7d24;
+  --color-pink-500: #ee5f0f;
+  --color-pink-600: #c84a08;
+  --color-pink-700: #8a3206;
+
+  --color-cream: #fafbfd;
+  --color-cream-2: #eef1f6;
+  --color-ink: #0b1530;
+  --color-ink-soft: #2a3653;
+  --color-ink-mute: #6c7691;
+  --color-line: #d9deea;
+  --color-line-2: #e8ecf4;
+
+  --color-mint: #6ed6b6;
+  --color-amber: #f5b942;
+  --color-rose: #f06585;
+  --color-lilac: #b89cf0;
+  --color-sky: #7fc1ee;
+
+  --font-display: "Inter", -apple-system, BlinkMacSystemFont, "SF Pro Display", system-ui, sans-serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Inter", system-ui, sans-serif;
+
+  --radius-card: 14px;
+}
+
+html, body {
+  background: var(--color-cream);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* bold sans headings for the Wonder modern editorial feel */
+h1, h2, h3, .display {
+  font-family: var(--font-display);
+  letter-spacing: -0.018em;
+  font-weight: 700;
+}
+
+::selection { background: var(--color-pink-200); color: var(--color-ink); }
+
+/* small utilities used throughout */
+.card {
+  background: white;
+  border: 1px solid var(--color-line);
+  border-radius: var(--radius-card);
+  padding: 1.25rem;
+}
+.card-cream {
+  background: var(--color-cream-2);
+  border: 1px solid var(--color-line);
+  border-radius: var(--radius-card);
+  padding: 1.25rem;
+}
+.chip {
+  display: inline-flex; align-items: center; gap: 0.35rem;
+  font-size: 0.72rem; font-weight: 600;
+  padding: 0.2rem 0.55rem;
+  border-radius: 999px;
+  border: 1px solid var(--color-line);
+  background: white; color: var(--color-ink-soft);
+}
+.chip-pink { background: var(--color-pink-100); border-color: var(--color-pink-200); color: var(--color-pink-700); }
+.chip-mint { background: #e6faf2; border-color: #b8ebd9; color: #1f7a5c; }
+.chip-amber { background: #fff3d6; border-color: #f3d99a; color: #8a5d10; }
+.chip-rose { background: #ffe1ea; border-color: #ffb6c8; color: #a01a44; }
+.chip-lilac { background: #efe6fb; border-color: #d6c2f3; color: #5a3a9e; }
+.chip-sky { background: #e3f1fc; border-color: #bcdbf3; color: #1f5a82; }
+
+.kbd {
+  font-family: ui-monospace, SFMono-Regular, monospace;
+  font-size: 0.72rem;
+  background: var(--color-cream-2);
+  border: 1px solid var(--color-line);
+  border-bottom-width: 2px;
+  border-radius: 6px;
+  padding: 0.1rem 0.4rem;
+  color: var(--color-ink-soft);
+}
+
+/* subtle dotted background for hero */
+.dots {
+  background-image: radial-gradient(rgba(11, 21, 48, 0.14) 1px, transparent 1px);
+  background-size: 14px 14px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .reveal { animation: reveal 0.5s ease-out both; }
+  @keyframes reveal {
+    from { opacity: 0; transform: translateY(6px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+}

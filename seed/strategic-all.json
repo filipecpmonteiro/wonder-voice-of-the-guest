@@ -1,0 +1,2290 @@
+{
+  "sinceDate": "2024-01-01T00:00:00Z",
+  "generatedAt": "2026-05-21T18:26:17.482Z",
+  "months": [
+    "2024-01",
+    "2024-02",
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-06",
+    "2024-07",
+    "2024-08",
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12",
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05"
+  ],
+  "topIssues": [
+    {
+      "label": "Cold or soggy food at handoff",
+      "evidenceThemes": [
+        "cold food at pickup",
+        "cold food temperature",
+        "cold food on pickup",
+        "cold and soggy food",
+        "cold food via delivery",
+        "cold delivery temperatures",
+        "food holding time",
+        "soggy delivery condition",
+        "soggy wings not fresh"
+      ],
+      "whatToDo": "Implement temperature checkpoints at pickup/delivery handoff; train staff on food-holding protocols and insulated packaging; audit every 3rd order for temp compliance.",
+      "rationale": "Appears in 15+ months consecutively; spans pickup, delivery, and dine-in; directly impacts customer satisfaction and food safety perception.",
+      "totalMentions": 15,
+      "totalDenominator": 341,
+      "totalPct": 4,
+      "exampleQuote": "Gave them a second chance my food was cold like last time . Picked up my food once it had said it was ready to pick up and I was expecting my food to be warm not cold especially fries and burger.",
+      "monthlyEvolution": [
+        {
+          "month": "2024-01",
+          "label": "Jan 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 0
+        },
+        {
+          "month": "2024-02",
+          "label": "Feb 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 5
+        },
+        {
+          "month": "2024-03",
+          "label": "Mar 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 6
+        },
+        {
+          "month": "2024-04",
+          "label": "Apr 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 6
+        },
+        {
+          "month": "2024-05",
+          "label": "May 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 4
+        },
+        {
+          "month": "2024-06",
+          "label": "Jun 24",
+          "pct": 14,
+          "matches": 1,
+          "denominator": 7
+        },
+        {
+          "month": "2024-07",
+          "label": "Jul 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 8
+        },
+        {
+          "month": "2024-08",
+          "label": "Aug 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 3
+        },
+        {
+          "month": "2024-09",
+          "label": "Sep 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 15
+        },
+        {
+          "month": "2024-10",
+          "label": "Oct 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 11
+        },
+        {
+          "month": "2024-11",
+          "label": "Nov 24",
+          "pct": 24,
+          "matches": 4,
+          "denominator": 17
+        },
+        {
+          "month": "2024-12",
+          "label": "Dec 24",
+          "pct": 7,
+          "matches": 1,
+          "denominator": 15
+        },
+        {
+          "month": "2025-01",
+          "label": "Jan 25",
+          "pct": 9,
+          "matches": 1,
+          "denominator": 11
+        },
+        {
+          "month": "2025-02",
+          "label": "Feb 25",
+          "pct": 14,
+          "matches": 1,
+          "denominator": 7
+        },
+        {
+          "month": "2025-03",
+          "label": "Mar 25",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 12
+        },
+        {
+          "month": "2025-04",
+          "label": "Apr 25",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 12
+        },
+        {
+          "month": "2025-05",
+          "label": "May 25",
+          "pct": 8,
+          "matches": 1,
+          "denominator": 12
+        },
+        {
+          "month": "2025-06",
+          "label": "Jun 25",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 15
+        },
+        {
+          "month": "2025-07",
+          "label": "Jul 25",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 15
+        },
+        {
+          "month": "2025-08",
+          "label": "Aug 25",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 5
+        },
+        {
+          "month": "2025-09",
+          "label": "Sep 25",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 23
+        },
+        {
+          "month": "2025-10",
+          "label": "Oct 25",
+          "pct": 5,
+          "matches": 1,
+          "denominator": 19
+        },
+        {
+          "month": "2025-11",
+          "label": "Nov 25",
+          "pct": 4,
+          "matches": 1,
+          "denominator": 25
+        },
+        {
+          "month": "2025-12",
+          "label": "Dec 25",
+          "pct": 6,
+          "matches": 1,
+          "denominator": 17
+        },
+        {
+          "month": "2026-01",
+          "label": "Jan 26",
+          "pct": 10,
+          "matches": 1,
+          "denominator": 10
+        },
+        {
+          "month": "2026-02",
+          "label": "Feb 26",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 13
+        },
+        {
+          "month": "2026-03",
+          "label": "Mar 26",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 15
+        },
+        {
+          "month": "2026-04",
+          "label": "Apr 26",
+          "pct": 8,
+          "matches": 2,
+          "denominator": 26
+        },
+        {
+          "month": "2026-05",
+          "label": "May 26",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 7
+        }
+      ]
+    },
+    {
+      "label": "Inconsistent food quality across concepts",
+      "evidenceThemes": [
+        "multi-concept quality dilution",
+        "poor food quality across concepts",
+        "inconsistent execution",
+        "quality inconsistency across concepts",
+        "inconsistency across concepts",
+        "concept quality variance",
+        "multi-concept execution failure",
+        "poor food quality across concepts",
+        "cross-concept quality inconsistency",
+        "individual concepts outperform bundled offering"
+      ],
+      "whatToDo": "Establish unified kitchen SOPs per concept; conduct monthly cross-concept quality audits; assign concept-specific lead cooks to enforce brand standards.",
+      "rationale": "Persistent across 18+ months; signals shared-kitchen model dilutes individual brand identity; directly addressable via kitchen consistency and training.",
+      "totalMentions": 27,
+      "totalDenominator": 341,
+      "totalPct": 8,
+      "exampleQuote": "Ordered from Limesalt. Food was very bland and small portioned for the price. Tortilla chips tasted like they were from from a store bought bag. This was my fear when ordering from wonder, that since they have a broad menu with so many \"restaurants\". The quality is definitely imp",
+      "monthlyEvolution": [
+        {
+          "month": "2024-01",
+          "label": "Jan 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 0
+        },
+        {
+          "month": "2024-02",
+          "label": "Feb 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 5
+        },
+        {
+          "month": "2024-03",
+          "label": "Mar 24",
+          "pct": 33,
+          "matches": 2,
+          "denominator": 6
+        },
+        {
+          "month": "2024-04",
+          "label": "Apr 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 6
+        },
+        {
+          "month": "2024-05",
+          "label": "May 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 4
+        },
+        {
+          "month": "2024-06",
+          "label": "Jun 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 7
+        },
+        {
+          "month": "2024-07",
+          "label": "Jul 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 8
+        },
+        {
+          "month": "2024-08",
+          "label": "Aug 24",
+          "pct": 67,
+          "matches": 2,
+          "denominator": 3
+        },
+        {
+          "month": "2024-09",
+          "label": "Sep 24",
+          "pct": 7,
+          "matches": 1,
+          "denominator": 15
+        },
+        {
+          "month": "2024-10",
+          "label": "Oct 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 11
+        },
+        {
+          "month": "2024-11",
+          "label": "Nov 24",
+          "pct": 6,
+          "matches": 1,
+          "denominator": 17
+        },
+        {
+          "month": "2024-12",
+          "label": "Dec 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 15
+        },
+        {
+          "month": "2025-01",
+          "label": "Jan 25",
+          "pct": 9,
+          "matches": 1,
+          "denominator": 11
+        },
+        {
+          "month": "2025-02",
+          "label": "Feb 25",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 7
+        },
+        {
+          "month": "2025-03",
+          "label": "Mar 25",
+          "pct": 17,
+          "matches": 2,
+          "denominator": 12
+        },
+        {
+          "month": "2025-04",
+          "label": "Apr 25",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 12
+        },
+        {
+          "month": "2025-05",
+          "label": "May 25",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 12
+        },
+        {
+          "month": "2025-06",
+          "label": "Jun 25",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 15
+        },
+        {
+          "month": "2025-07",
+          "label": "Jul 25",
+          "pct": 7,
+          "matches": 1,
+          "denominator": 15
+        },
+        {
+          "month": "2025-08",
+          "label": "Aug 25",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 5
+        },
+        {
+          "month": "2025-09",
+          "label": "Sep 25",
+          "pct": 13,
+          "matches": 3,
+          "denominator": 23
+        },
+        {
+          "month": "2025-10",
+          "label": "Oct 25",
+          "pct": 26,
+          "matches": 5,
+          "denominator": 19
+        },
+        {
+          "month": "2025-11",
+          "label": "Nov 25",
+          "pct": 12,
+          "matches": 3,
+          "denominator": 25
+        },
+        {
+          "month": "2025-12",
+          "label": "Dec 25",
+          "pct": 6,
+          "matches": 1,
+          "denominator": 17
+        },
+        {
+          "month": "2026-01",
+          "label": "Jan 26",
+          "pct": 10,
+          "matches": 1,
+          "denominator": 10
+        },
+        {
+          "month": "2026-02",
+          "label": "Feb 26",
+          "pct": 8,
+          "matches": 1,
+          "denominator": 13
+        },
+        {
+          "month": "2026-03",
+          "label": "Mar 26",
+          "pct": 7,
+          "matches": 1,
+          "denominator": 15
+        },
+        {
+          "month": "2026-04",
+          "label": "Apr 26",
+          "pct": 8,
+          "matches": 2,
+          "denominator": 26
+        },
+        {
+          "month": "2026-05",
+          "label": "May 26",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 7
+        }
+      ]
+    },
+    {
+      "label": "Long wait times and slow service",
+      "evidenceThemes": [
+        "slow service",
+        "excessive wait time",
+        "long wait times",
+        "slow order fulfillment",
+        "slow order preparation",
+        "slow pickup times",
+        "slow service response",
+        "slow service despite low volume",
+        "inadequate staffing for volume",
+        "understaffing during peak hours",
+        "kitchen overwhelm and slow execution"
+      ],
+      "whatToDo": "Right-size staffing to peak-hour volume; implement kitchen-to-pickup handoff SOP with time targets; add kiosk stations to reduce bottlenecks.",
+      "rationale": "Appears in 20+ months; spans kitchen, pickup, and delivery; directly tied to staffing and operational workflow gaps.",
+      "totalMentions": 46,
+      "totalDenominator": 341,
+      "totalPct": 13,
+      "exampleQuote": "Very bad this store worker and very slow\n😡",
+      "monthlyEvolution": [
+        {
+          "month": "2024-01",
+          "label": "Jan 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 0
+        },
+        {
+          "month": "2024-02",
+          "label": "Feb 24",
+          "pct": 20,
+          "matches": 1,
+          "denominator": 5
+        },
+        {
+          "month": "2024-03",
+          "label": "Mar 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 6
+        },
+        {
+          "month": "2024-04",
+          "label": "Apr 24",
+          "pct": 17,
+          "matches": 1,
+          "denominator": 6
+        },
+        {
+          "month": "2024-05",
+          "label": "May 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 4
+        },
+        {
+          "month": "2024-06",
+          "label": "Jun 24",
+          "pct": 14,
+          "matches": 1,
+          "denominator": 7
+        },
+        {
+          "month": "2024-07",
+          "label": "Jul 24",
+          "pct": 38,
+          "matches": 3,
+          "denominator": 8
+        },
+        {
+          "month": "2024-08",
+          "label": "Aug 24",
+          "pct": 33,
+          "matches": 1,
+          "denominator": 3
+        },
+        {
+          "month": "2024-09",
+          "label": "Sep 24",
+          "pct": 13,
+          "matches": 2,
+          "denominator": 15
+        },
+        {
+          "month": "2024-10",
+          "label": "Oct 24",
+          "pct": 36,
+          "matches": 4,
+          "denominator": 11
+        },
+        {
+          "month": "2024-11",
+          "label": "Nov 24",
+          "pct": 6,
+          "matches": 1,
+          "denominator": 17
+        },
+        {
+          "month": "2024-12",
+          "label": "Dec 24",
+          "pct": 13,
+          "matches": 2,
+          "denominator": 15
+        },
+        {
+          "month": "2025-01",
+          "label": "Jan 25",
+          "pct": 27,
+          "matches": 3,
+          "denominator": 11
+        },
+        {
+          "month": "2025-02",
+          "label": "Feb 25",
+          "pct": 29,
+          "matches": 2,
+          "denominator": 7
+        },
+        {
+          "month": "2025-03",
+          "label": "Mar 25",
+          "pct": 17,
+          "matches": 2,
+          "denominator": 12
+        },
+        {
+          "month": "2025-04",
+          "label": "Apr 25",
+          "pct": 8,
+          "matches": 1,
+          "denominator": 12
+        },
+        {
+          "month": "2025-05",
+          "label": "May 25",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 12
+        },
+        {
+          "month": "2025-06",
+          "label": "Jun 25",
+          "pct": 13,
+          "matches": 2,
+          "denominator": 15
+        },
+        {
+          "month": "2025-07",
+          "label": "Jul 25",
+          "pct": 7,
+          "matches": 1,
+          "denominator": 15
+        },
+        {
+          "month": "2025-08",
+          "label": "Aug 25",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 5
+        },
+        {
+          "month": "2025-09",
+          "label": "Sep 25",
+          "pct": 22,
+          "matches": 5,
+          "denominator": 23
+        },
+        {
+          "month": "2025-10",
+          "label": "Oct 25",
+          "pct": 16,
+          "matches": 3,
+          "denominator": 19
+        },
+        {
+          "month": "2025-11",
+          "label": "Nov 25",
+          "pct": 12,
+          "matches": 3,
+          "denominator": 25
+        },
+        {
+          "month": "2025-12",
+          "label": "Dec 25",
+          "pct": 6,
+          "matches": 1,
+          "denominator": 17
+        },
+        {
+          "month": "2026-01",
+          "label": "Jan 26",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 10
+        },
+        {
+          "month": "2026-02",
+          "label": "Feb 26",
+          "pct": 15,
+          "matches": 2,
+          "denominator": 13
+        },
+        {
+          "month": "2026-03",
+          "label": "Mar 26",
+          "pct": 7,
+          "matches": 1,
+          "denominator": 15
+        },
+        {
+          "month": "2026-04",
+          "label": "Apr 26",
+          "pct": 12,
+          "matches": 3,
+          "denominator": 26
+        },
+        {
+          "month": "2026-05",
+          "label": "May 26",
+          "pct": 14,
+          "matches": 1,
+          "denominator": 7
+        }
+      ]
+    },
+    {
+      "label": "Missing or incomplete order items",
+      "evidenceThemes": [
+        "missing order components",
+        "missing condiments in orders",
+        "missing condiments in delivery orders",
+        "incomplete order fulfillment",
+        "order accuracy failure",
+        "missing ingredients in order",
+        "missing order items",
+        "missing toppings",
+        "missing side items",
+        "missing ingredients and substitutions",
+        "order mix-up at pickup"
+      ],
+      "whatToDo": "Implement order-assembly checklist at pickup/packing; train staff on multi-concept bundling accuracy; add QA scan before handoff.",
+      "rationale": "Recurs in 18+ months; high-volume complaint; directly preventable via process and training; impacts trust and repeat visits.",
+      "totalMentions": 24,
+      "totalDenominator": 341,
+      "totalPct": 7,
+      "exampleQuote": "I’ve tried a few of the cuisines here at Wonder. Very average, nothing too exciting. On this day I wondered the zesty chicken souvlaki bowl. The rice was all clumped together, the chicken was dry, and the order was missing the pita chips and green goddess dressing.",
+      "monthlyEvolution": [
+        {
+          "month": "2024-01",
+          "label": "Jan 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 0
+        },
+        {
+          "month": "2024-02",
+          "label": "Feb 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 5
+        },
+        {
+          "month": "2024-03",
+          "label": "Mar 24",
+          "pct": 17,
+          "matches": 1,
+          "denominator": 6
+        },
+        {
+          "month": "2024-04",
+          "label": "Apr 24",
+          "pct": 50,
+          "matches": 3,
+          "denominator": 6
+        },
+        {
+          "month": "2024-05",
+          "label": "May 24",
+          "pct": 25,
+          "matches": 1,
+          "denominator": 4
+        },
+        {
+          "month": "2024-06",
+          "label": "Jun 24",
+          "pct": 14,
+          "matches": 1,
+          "denominator": 7
+        },
+        {
+          "month": "2024-07",
+          "label": "Jul 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 8
+        },
+        {
+          "month": "2024-08",
+          "label": "Aug 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 3
+        },
+        {
+          "month": "2024-09",
+          "label": "Sep 24",
+          "pct": 7,
+          "matches": 1,
+          "denominator": 15
+        },
+        {
+          "month": "2024-10",
+          "label": "Oct 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 11
+        },
+        {
+          "month": "2024-11",
+          "label": "Nov 24",
+          "pct": 18,
+          "matches": 3,
+          "denominator": 17
+        },
+        {
+          "month": "2024-12",
+          "label": "Dec 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 15
+        },
+        {
+          "month": "2025-01",
+          "label": "Jan 25",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 11
+        },
+        {
+          "month": "2025-02",
+          "label": "Feb 25",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 7
+        },
+        {
+          "month": "2025-03",
+          "label": "Mar 25",
+          "pct": 17,
+          "matches": 2,
+          "denominator": 12
+        },
+        {
+          "month": "2025-04",
+          "label": "Apr 25",
+          "pct": 8,
+          "matches": 1,
+          "denominator": 12
+        },
+        {
+          "month": "2025-05",
+          "label": "May 25",
+          "pct": 8,
+          "matches": 1,
+          "denominator": 12
+        },
+        {
+          "month": "2025-06",
+          "label": "Jun 25",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 15
+        },
+        {
+          "month": "2025-07",
+          "label": "Jul 25",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 15
+        },
+        {
+          "month": "2025-08",
+          "label": "Aug 25",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 5
+        },
+        {
+          "month": "2025-09",
+          "label": "Sep 25",
+          "pct": 4,
+          "matches": 1,
+          "denominator": 23
+        },
+        {
+          "month": "2025-10",
+          "label": "Oct 25",
+          "pct": 16,
+          "matches": 3,
+          "denominator": 19
+        },
+        {
+          "month": "2025-11",
+          "label": "Nov 25",
+          "pct": 8,
+          "matches": 2,
+          "denominator": 25
+        },
+        {
+          "month": "2025-12",
+          "label": "Dec 25",
+          "pct": 6,
+          "matches": 1,
+          "denominator": 17
+        },
+        {
+          "month": "2026-01",
+          "label": "Jan 26",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 10
+        },
+        {
+          "month": "2026-02",
+          "label": "Feb 26",
+          "pct": 8,
+          "matches": 1,
+          "denominator": 13
+        },
+        {
+          "month": "2026-03",
+          "label": "Mar 26",
+          "pct": 7,
+          "matches": 1,
+          "denominator": 15
+        },
+        {
+          "month": "2026-04",
+          "label": "Apr 26",
+          "pct": 4,
+          "matches": 1,
+          "denominator": 26
+        },
+        {
+          "month": "2026-05",
+          "label": "May 26",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 7
+        }
+      ]
+    },
+    {
+      "label": "Portion sizes too small for price",
+      "evidenceThemes": [
+        "small portions",
+        "inadequate portion size",
+        "portion size mismatch",
+        "half portions served",
+        "small portion sizes",
+        "portion imbalance",
+        "undersized portions",
+        "inadequate portions",
+        "insufficient protein portions",
+        "price-to-portion mismatch",
+        "portion-to-price mismatch"
+      ],
+      "whatToDo": "Audit portion weights per concept weekly; retrain kitchen staff on portion standards; adjust menu pricing or portion size to align value perception.",
+      "rationale": "Appears in 16+ months; directly tied to value perception and pricing strategy; actionable via kitchen training and portion-control enforcement.",
+      "totalMentions": 23,
+      "totalDenominator": 341,
+      "totalPct": 7,
+      "exampleQuote": "Ordered from Limesalt. Food was very bland and small portioned for the price. Tortilla chips tasted like they were from from a store bought bag. This was my fear when ordering from wonder, that since they have a broad menu with so many \"restaurants\". The quality is definitely imp",
+      "monthlyEvolution": [
+        {
+          "month": "2024-01",
+          "label": "Jan 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 0
+        },
+        {
+          "month": "2024-02",
+          "label": "Feb 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 5
+        },
+        {
+          "month": "2024-03",
+          "label": "Mar 24",
+          "pct": 33,
+          "matches": 2,
+          "denominator": 6
+        },
+        {
+          "month": "2024-04",
+          "label": "Apr 24",
+          "pct": 17,
+          "matches": 1,
+          "denominator": 6
+        },
+        {
+          "month": "2024-05",
+          "label": "May 24",
+          "pct": 25,
+          "matches": 1,
+          "denominator": 4
+        },
+        {
+          "month": "2024-06",
+          "label": "Jun 24",
+          "pct": 14,
+          "matches": 1,
+          "denominator": 7
+        },
+        {
+          "month": "2024-07",
+          "label": "Jul 24",
+          "pct": 13,
+          "matches": 1,
+          "denominator": 8
+        },
+        {
+          "month": "2024-08",
+          "label": "Aug 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 3
+        },
+        {
+          "month": "2024-09",
+          "label": "Sep 24",
+          "pct": 7,
+          "matches": 1,
+          "denominator": 15
+        },
+        {
+          "month": "2024-10",
+          "label": "Oct 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 11
+        },
+        {
+          "month": "2024-11",
+          "label": "Nov 24",
+          "pct": 6,
+          "matches": 1,
+          "denominator": 17
+        },
+        {
+          "month": "2024-12",
+          "label": "Dec 24",
+          "pct": 13,
+          "matches": 2,
+          "denominator": 15
+        },
+        {
+          "month": "2025-01",
+          "label": "Jan 25",
+          "pct": 9,
+          "matches": 1,
+          "denominator": 11
+        },
+        {
+          "month": "2025-02",
+          "label": "Feb 25",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 7
+        },
+        {
+          "month": "2025-03",
+          "label": "Mar 25",
+          "pct": 8,
+          "matches": 1,
+          "denominator": 12
+        },
+        {
+          "month": "2025-04",
+          "label": "Apr 25",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 12
+        },
+        {
+          "month": "2025-05",
+          "label": "May 25",
+          "pct": 25,
+          "matches": 3,
+          "denominator": 12
+        },
+        {
+          "month": "2025-06",
+          "label": "Jun 25",
+          "pct": 7,
+          "matches": 1,
+          "denominator": 15
+        },
+        {
+          "month": "2025-07",
+          "label": "Jul 25",
+          "pct": 7,
+          "matches": 1,
+          "denominator": 15
+        },
+        {
+          "month": "2025-08",
+          "label": "Aug 25",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 5
+        },
+        {
+          "month": "2025-09",
+          "label": "Sep 25",
+          "pct": 4,
+          "matches": 1,
+          "denominator": 23
+        },
+        {
+          "month": "2025-10",
+          "label": "Oct 25",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 19
+        },
+        {
+          "month": "2025-11",
+          "label": "Nov 25",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 25
+        },
+        {
+          "month": "2025-12",
+          "label": "Dec 25",
+          "pct": 18,
+          "matches": 3,
+          "denominator": 17
+        },
+        {
+          "month": "2026-01",
+          "label": "Jan 26",
+          "pct": 10,
+          "matches": 1,
+          "denominator": 10
+        },
+        {
+          "month": "2026-02",
+          "label": "Feb 26",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 13
+        },
+        {
+          "month": "2026-03",
+          "label": "Mar 26",
+          "pct": 7,
+          "matches": 1,
+          "denominator": 15
+        },
+        {
+          "month": "2026-04",
+          "label": "Apr 26",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 26
+        },
+        {
+          "month": "2026-05",
+          "label": "May 26",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 7
+        }
+      ]
+    }
+  ],
+  "topWins": [
+    {
+      "label": "High food quality execution across concepts",
+      "evidenceThemes": [
+        "food quality",
+        "excellent food quality",
+        "high food quality",
+        "food quality execution",
+        "multi-concept food quality",
+        "consistent food quality",
+        "fresh food quality",
+        "high-quality food execution"
+      ],
+      "whatToDo": "Standardize recipe execution, ingredient sourcing, and cooking temps across all 14 shops and all concepts via detailed SOPs and monthly audits.",
+      "rationale": "Appears in every single month (Jan 2024–May 2026) as top positive driver; customers reward consistency and quality above all else.",
+      "totalMentions": 523,
+      "totalDenominator": 1536,
+      "totalPct": 34,
+      "exampleQuote": "The best food in Brooklyn ! I love it !",
+      "monthlyEvolution": [
+        {
+          "month": "2024-01",
+          "label": "Jan 24",
+          "pct": 38,
+          "matches": 5,
+          "denominator": 13
+        },
+        {
+          "month": "2024-02",
+          "label": "Feb 24",
+          "pct": 57,
+          "matches": 4,
+          "denominator": 7
+        },
+        {
+          "month": "2024-03",
+          "label": "Mar 24",
+          "pct": 33,
+          "matches": 3,
+          "denominator": 9
+        },
+        {
+          "month": "2024-04",
+          "label": "Apr 24",
+          "pct": 38,
+          "matches": 3,
+          "denominator": 8
+        },
+        {
+          "month": "2024-05",
+          "label": "May 24",
+          "pct": 39,
+          "matches": 59,
+          "denominator": 150
+        },
+        {
+          "month": "2024-06",
+          "label": "Jun 24",
+          "pct": 40,
+          "matches": 34,
+          "denominator": 84
+        },
+        {
+          "month": "2024-07",
+          "label": "Jul 24",
+          "pct": 40,
+          "matches": 6,
+          "denominator": 15
+        },
+        {
+          "month": "2024-08",
+          "label": "Aug 24",
+          "pct": 35,
+          "matches": 14,
+          "denominator": 40
+        },
+        {
+          "month": "2024-09",
+          "label": "Sep 24",
+          "pct": 38,
+          "matches": 9,
+          "denominator": 24
+        },
+        {
+          "month": "2024-10",
+          "label": "Oct 24",
+          "pct": 33,
+          "matches": 5,
+          "denominator": 15
+        },
+        {
+          "month": "2024-11",
+          "label": "Nov 24",
+          "pct": 25,
+          "matches": 6,
+          "denominator": 24
+        },
+        {
+          "month": "2024-12",
+          "label": "Dec 24",
+          "pct": 33,
+          "matches": 7,
+          "denominator": 21
+        },
+        {
+          "month": "2025-01",
+          "label": "Jan 25",
+          "pct": 59,
+          "matches": 13,
+          "denominator": 22
+        },
+        {
+          "month": "2025-02",
+          "label": "Feb 25",
+          "pct": 21,
+          "matches": 7,
+          "denominator": 34
+        },
+        {
+          "month": "2025-03",
+          "label": "Mar 25",
+          "pct": 31,
+          "matches": 17,
+          "denominator": 54
+        },
+        {
+          "month": "2025-04",
+          "label": "Apr 25",
+          "pct": 33,
+          "matches": 14,
+          "denominator": 42
+        },
+        {
+          "month": "2025-05",
+          "label": "May 25",
+          "pct": 44,
+          "matches": 34,
+          "denominator": 77
+        },
+        {
+          "month": "2025-06",
+          "label": "Jun 25",
+          "pct": 37,
+          "matches": 28,
+          "denominator": 75
+        },
+        {
+          "month": "2025-07",
+          "label": "Jul 25",
+          "pct": 47,
+          "matches": 34,
+          "denominator": 72
+        },
+        {
+          "month": "2025-08",
+          "label": "Aug 25",
+          "pct": 29,
+          "matches": 25,
+          "denominator": 87
+        },
+        {
+          "month": "2025-09",
+          "label": "Sep 25",
+          "pct": 19,
+          "matches": 8,
+          "denominator": 43
+        },
+        {
+          "month": "2025-10",
+          "label": "Oct 25",
+          "pct": 25,
+          "matches": 14,
+          "denominator": 57
+        },
+        {
+          "month": "2025-11",
+          "label": "Nov 25",
+          "pct": 27,
+          "matches": 13,
+          "denominator": 48
+        },
+        {
+          "month": "2025-12",
+          "label": "Dec 25",
+          "pct": 29,
+          "matches": 21,
+          "denominator": 73
+        },
+        {
+          "month": "2026-01",
+          "label": "Jan 26",
+          "pct": 38,
+          "matches": 26,
+          "denominator": 69
+        },
+        {
+          "month": "2026-02",
+          "label": "Feb 26",
+          "pct": 37,
+          "matches": 26,
+          "denominator": 70
+        },
+        {
+          "month": "2026-03",
+          "label": "Mar 26",
+          "pct": 29,
+          "matches": 23,
+          "denominator": 80
+        },
+        {
+          "month": "2026-04",
+          "label": "Apr 26",
+          "pct": 29,
+          "matches": 52,
+          "denominator": 179
+        },
+        {
+          "month": "2026-05",
+          "label": "May 26",
+          "pct": 30,
+          "matches": 13,
+          "denominator": 44
+        }
+      ]
+    },
+    {
+      "label": "Fast service and order fulfillment speed",
+      "evidenceThemes": [
+        "fast service",
+        "quick service",
+        "fast delivery",
+        "fast pickup",
+        "quick order fulfillment",
+        "fast service execution",
+        "prompt order fulfillment",
+        "fast delivery service"
+      ],
+      "whatToDo": "Monitor and optimize kitchen throughput, kiosk/app UX, and pickup handoff SOP; staff to volume ratios during peak hours.",
+      "rationale": "Consistently praised across all 16 months; speed is a core fast-casual expectation and directly impacts repeat visits.",
+      "totalMentions": 185,
+      "totalDenominator": 1536,
+      "totalPct": 12,
+      "exampleQuote": "Very good food and fast service! The  wings are amazing",
+      "monthlyEvolution": [
+        {
+          "month": "2024-01",
+          "label": "Jan 24",
+          "pct": 8,
+          "matches": 1,
+          "denominator": 13
+        },
+        {
+          "month": "2024-02",
+          "label": "Feb 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 7
+        },
+        {
+          "month": "2024-03",
+          "label": "Mar 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 9
+        },
+        {
+          "month": "2024-04",
+          "label": "Apr 24",
+          "pct": 13,
+          "matches": 1,
+          "denominator": 8
+        },
+        {
+          "month": "2024-05",
+          "label": "May 24",
+          "pct": 18,
+          "matches": 27,
+          "denominator": 150
+        },
+        {
+          "month": "2024-06",
+          "label": "Jun 24",
+          "pct": 24,
+          "matches": 20,
+          "denominator": 84
+        },
+        {
+          "month": "2024-07",
+          "label": "Jul 24",
+          "pct": 13,
+          "matches": 2,
+          "denominator": 15
+        },
+        {
+          "month": "2024-08",
+          "label": "Aug 24",
+          "pct": 3,
+          "matches": 1,
+          "denominator": 40
+        },
+        {
+          "month": "2024-09",
+          "label": "Sep 24",
+          "pct": 4,
+          "matches": 1,
+          "denominator": 24
+        },
+        {
+          "month": "2024-10",
+          "label": "Oct 24",
+          "pct": 7,
+          "matches": 1,
+          "denominator": 15
+        },
+        {
+          "month": "2024-11",
+          "label": "Nov 24",
+          "pct": 8,
+          "matches": 2,
+          "denominator": 24
+        },
+        {
+          "month": "2024-12",
+          "label": "Dec 24",
+          "pct": 5,
+          "matches": 1,
+          "denominator": 21
+        },
+        {
+          "month": "2025-01",
+          "label": "Jan 25",
+          "pct": 5,
+          "matches": 1,
+          "denominator": 22
+        },
+        {
+          "month": "2025-02",
+          "label": "Feb 25",
+          "pct": 15,
+          "matches": 5,
+          "denominator": 34
+        },
+        {
+          "month": "2025-03",
+          "label": "Mar 25",
+          "pct": 15,
+          "matches": 8,
+          "denominator": 54
+        },
+        {
+          "month": "2025-04",
+          "label": "Apr 25",
+          "pct": 12,
+          "matches": 5,
+          "denominator": 42
+        },
+        {
+          "month": "2025-05",
+          "label": "May 25",
+          "pct": 8,
+          "matches": 6,
+          "denominator": 77
+        },
+        {
+          "month": "2025-06",
+          "label": "Jun 25",
+          "pct": 13,
+          "matches": 10,
+          "denominator": 75
+        },
+        {
+          "month": "2025-07",
+          "label": "Jul 25",
+          "pct": 1,
+          "matches": 1,
+          "denominator": 72
+        },
+        {
+          "month": "2025-08",
+          "label": "Aug 25",
+          "pct": 6,
+          "matches": 5,
+          "denominator": 87
+        },
+        {
+          "month": "2025-09",
+          "label": "Sep 25",
+          "pct": 14,
+          "matches": 6,
+          "denominator": 43
+        },
+        {
+          "month": "2025-10",
+          "label": "Oct 25",
+          "pct": 11,
+          "matches": 6,
+          "denominator": 57
+        },
+        {
+          "month": "2025-11",
+          "label": "Nov 25",
+          "pct": 10,
+          "matches": 5,
+          "denominator": 48
+        },
+        {
+          "month": "2025-12",
+          "label": "Dec 25",
+          "pct": 12,
+          "matches": 9,
+          "denominator": 73
+        },
+        {
+          "month": "2026-01",
+          "label": "Jan 26",
+          "pct": 12,
+          "matches": 8,
+          "denominator": 69
+        },
+        {
+          "month": "2026-02",
+          "label": "Feb 26",
+          "pct": 13,
+          "matches": 9,
+          "denominator": 70
+        },
+        {
+          "month": "2026-03",
+          "label": "Mar 26",
+          "pct": 18,
+          "matches": 14,
+          "denominator": 80
+        },
+        {
+          "month": "2026-04",
+          "label": "Apr 26",
+          "pct": 16,
+          "matches": 28,
+          "denominator": 179
+        },
+        {
+          "month": "2026-05",
+          "label": "May 26",
+          "pct": 5,
+          "matches": 2,
+          "denominator": 44
+        }
+      ]
+    },
+    {
+      "label": "Multi-concept ordering and bundling execution",
+      "evidenceThemes": [
+        "multi-concept appeal",
+        "multi-concept ordering convenience",
+        "multi-concept bundling execution",
+        "multi-concept variety appeal",
+        "concept variety appeal",
+        "cross-concept menu appeal",
+        "multi-concept ordering experience"
+      ],
+      "whatToDo": "Ensure kitchen coordination SOP for bundled orders; train staff on cross-concept menu knowledge; test kiosk/app UX for seamless multi-brand ordering.",
+      "rationale": "Appears in 15+ months; multi-concept bundling is Wonder's unique value prop and must work flawlessly to justify premium positioning.",
+      "totalMentions": 115,
+      "totalDenominator": 1536,
+      "totalPct": 7,
+      "exampleQuote": "All the best chefs in one place this is a can't lose food was great its definitely a place I order from frequently",
+      "monthlyEvolution": [
+        {
+          "month": "2024-01",
+          "label": "Jan 24",
+          "pct": 8,
+          "matches": 1,
+          "denominator": 13
+        },
+        {
+          "month": "2024-02",
+          "label": "Feb 24",
+          "pct": 57,
+          "matches": 4,
+          "denominator": 7
+        },
+        {
+          "month": "2024-03",
+          "label": "Mar 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 9
+        },
+        {
+          "month": "2024-04",
+          "label": "Apr 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 8
+        },
+        {
+          "month": "2024-05",
+          "label": "May 24",
+          "pct": 11,
+          "matches": 16,
+          "denominator": 150
+        },
+        {
+          "month": "2024-06",
+          "label": "Jun 24",
+          "pct": 11,
+          "matches": 9,
+          "denominator": 84
+        },
+        {
+          "month": "2024-07",
+          "label": "Jul 24",
+          "pct": 20,
+          "matches": 3,
+          "denominator": 15
+        },
+        {
+          "month": "2024-08",
+          "label": "Aug 24",
+          "pct": 3,
+          "matches": 1,
+          "denominator": 40
+        },
+        {
+          "month": "2024-09",
+          "label": "Sep 24",
+          "pct": 21,
+          "matches": 5,
+          "denominator": 24
+        },
+        {
+          "month": "2024-10",
+          "label": "Oct 24",
+          "pct": 7,
+          "matches": 1,
+          "denominator": 15
+        },
+        {
+          "month": "2024-11",
+          "label": "Nov 24",
+          "pct": 13,
+          "matches": 3,
+          "denominator": 24
+        },
+        {
+          "month": "2024-12",
+          "label": "Dec 24",
+          "pct": 5,
+          "matches": 1,
+          "denominator": 21
+        },
+        {
+          "month": "2025-01",
+          "label": "Jan 25",
+          "pct": 9,
+          "matches": 2,
+          "denominator": 22
+        },
+        {
+          "month": "2025-02",
+          "label": "Feb 25",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 34
+        },
+        {
+          "month": "2025-03",
+          "label": "Mar 25",
+          "pct": 2,
+          "matches": 1,
+          "denominator": 54
+        },
+        {
+          "month": "2025-04",
+          "label": "Apr 25",
+          "pct": 5,
+          "matches": 2,
+          "denominator": 42
+        },
+        {
+          "month": "2025-05",
+          "label": "May 25",
+          "pct": 9,
+          "matches": 7,
+          "denominator": 77
+        },
+        {
+          "month": "2025-06",
+          "label": "Jun 25",
+          "pct": 7,
+          "matches": 5,
+          "denominator": 75
+        },
+        {
+          "month": "2025-07",
+          "label": "Jul 25",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 72
+        },
+        {
+          "month": "2025-08",
+          "label": "Aug 25",
+          "pct": 8,
+          "matches": 7,
+          "denominator": 87
+        },
+        {
+          "month": "2025-09",
+          "label": "Sep 25",
+          "pct": 5,
+          "matches": 2,
+          "denominator": 43
+        },
+        {
+          "month": "2025-10",
+          "label": "Oct 25",
+          "pct": 11,
+          "matches": 6,
+          "denominator": 57
+        },
+        {
+          "month": "2025-11",
+          "label": "Nov 25",
+          "pct": 6,
+          "matches": 3,
+          "denominator": 48
+        },
+        {
+          "month": "2025-12",
+          "label": "Dec 25",
+          "pct": 8,
+          "matches": 6,
+          "denominator": 73
+        },
+        {
+          "month": "2026-01",
+          "label": "Jan 26",
+          "pct": 12,
+          "matches": 8,
+          "denominator": 69
+        },
+        {
+          "month": "2026-02",
+          "label": "Feb 26",
+          "pct": 11,
+          "matches": 8,
+          "denominator": 70
+        },
+        {
+          "month": "2026-03",
+          "label": "Mar 26",
+          "pct": 4,
+          "matches": 3,
+          "denominator": 80
+        },
+        {
+          "month": "2026-04",
+          "label": "Apr 26",
+          "pct": 6,
+          "matches": 10,
+          "denominator": 179
+        },
+        {
+          "month": "2026-05",
+          "label": "May 26",
+          "pct": 2,
+          "matches": 1,
+          "denominator": 44
+        }
+      ]
+    },
+    {
+      "label": "Friendly, attentive, and helpful staff",
+      "evidenceThemes": [
+        "friendly staff",
+        "excellent customer service",
+        "attentive staff",
+        "staff friendliness",
+        "helpful staff",
+        "exceptional staff performance",
+        "welcoming staff",
+        "staff helpfulness"
+      ],
+      "whatToDo": "Implement staff training program on hospitality, product knowledge, and allergy accommodation; recognize and retain top performers monthly.",
+      "rationale": "Appears in every month; staff warmth and competence are differentiators in fast-casual and drive loyalty and word-of-mouth.",
+      "totalMentions": 177,
+      "totalDenominator": 1536,
+      "totalPct": 12,
+      "exampleQuote": "The food was well cooked and customers service was phenomenal",
+      "monthlyEvolution": [
+        {
+          "month": "2024-01",
+          "label": "Jan 24",
+          "pct": 23,
+          "matches": 3,
+          "denominator": 13
+        },
+        {
+          "month": "2024-02",
+          "label": "Feb 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 7
+        },
+        {
+          "month": "2024-03",
+          "label": "Mar 24",
+          "pct": 11,
+          "matches": 1,
+          "denominator": 9
+        },
+        {
+          "month": "2024-04",
+          "label": "Apr 24",
+          "pct": 13,
+          "matches": 1,
+          "denominator": 8
+        },
+        {
+          "month": "2024-05",
+          "label": "May 24",
+          "pct": 7,
+          "matches": 10,
+          "denominator": 150
+        },
+        {
+          "month": "2024-06",
+          "label": "Jun 24",
+          "pct": 10,
+          "matches": 8,
+          "denominator": 84
+        },
+        {
+          "month": "2024-07",
+          "label": "Jul 24",
+          "pct": 13,
+          "matches": 2,
+          "denominator": 15
+        },
+        {
+          "month": "2024-08",
+          "label": "Aug 24",
+          "pct": 13,
+          "matches": 5,
+          "denominator": 40
+        },
+        {
+          "month": "2024-09",
+          "label": "Sep 24",
+          "pct": 17,
+          "matches": 4,
+          "denominator": 24
+        },
+        {
+          "month": "2024-10",
+          "label": "Oct 24",
+          "pct": 27,
+          "matches": 4,
+          "denominator": 15
+        },
+        {
+          "month": "2024-11",
+          "label": "Nov 24",
+          "pct": 8,
+          "matches": 2,
+          "denominator": 24
+        },
+        {
+          "month": "2024-12",
+          "label": "Dec 24",
+          "pct": 19,
+          "matches": 4,
+          "denominator": 21
+        },
+        {
+          "month": "2025-01",
+          "label": "Jan 25",
+          "pct": 18,
+          "matches": 4,
+          "denominator": 22
+        },
+        {
+          "month": "2025-02",
+          "label": "Feb 25",
+          "pct": 24,
+          "matches": 8,
+          "denominator": 34
+        },
+        {
+          "month": "2025-03",
+          "label": "Mar 25",
+          "pct": 17,
+          "matches": 9,
+          "denominator": 54
+        },
+        {
+          "month": "2025-04",
+          "label": "Apr 25",
+          "pct": 12,
+          "matches": 5,
+          "denominator": 42
+        },
+        {
+          "month": "2025-05",
+          "label": "May 25",
+          "pct": 17,
+          "matches": 13,
+          "denominator": 77
+        },
+        {
+          "month": "2025-06",
+          "label": "Jun 25",
+          "pct": 4,
+          "matches": 3,
+          "denominator": 75
+        },
+        {
+          "month": "2025-07",
+          "label": "Jul 25",
+          "pct": 11,
+          "matches": 8,
+          "denominator": 72
+        },
+        {
+          "month": "2025-08",
+          "label": "Aug 25",
+          "pct": 7,
+          "matches": 6,
+          "denominator": 87
+        },
+        {
+          "month": "2025-09",
+          "label": "Sep 25",
+          "pct": 14,
+          "matches": 6,
+          "denominator": 43
+        },
+        {
+          "month": "2025-10",
+          "label": "Oct 25",
+          "pct": 9,
+          "matches": 5,
+          "denominator": 57
+        },
+        {
+          "month": "2025-11",
+          "label": "Nov 25",
+          "pct": 13,
+          "matches": 6,
+          "denominator": 48
+        },
+        {
+          "month": "2025-12",
+          "label": "Dec 25",
+          "pct": 4,
+          "matches": 3,
+          "denominator": 73
+        },
+        {
+          "month": "2026-01",
+          "label": "Jan 26",
+          "pct": 4,
+          "matches": 3,
+          "denominator": 69
+        },
+        {
+          "month": "2026-02",
+          "label": "Feb 26",
+          "pct": 7,
+          "matches": 5,
+          "denominator": 70
+        },
+        {
+          "month": "2026-03",
+          "label": "Mar 26",
+          "pct": 13,
+          "matches": 10,
+          "denominator": 80
+        },
+        {
+          "month": "2026-04",
+          "label": "Apr 26",
+          "pct": 17,
+          "matches": 31,
+          "denominator": 179
+        },
+        {
+          "month": "2026-05",
+          "label": "May 26",
+          "pct": 18,
+          "matches": 8,
+          "denominator": 44
+        }
+      ]
+    },
+    {
+      "label": "Clean, well-maintained, welcoming shop environment",
+      "evidenceThemes": [
+        "clean facility",
+        "clean environment",
+        "clean well-maintained space",
+        "cleanliness standards",
+        "welcoming atmosphere",
+        "pleasant atmosphere",
+        "attractive physical space",
+        "clean and welcoming environment"
+      ],
+      "whatToDo": "Establish daily cleaning cadence checklist; assign accountability by shift; conduct weekly shop audits; fix seating/restroom/ambiance gaps.",
+      "rationale": "Consistently mentioned across 16 months; cleanliness and ambiance are table-stakes for dine-in and pickup experience quality.",
+      "totalMentions": 64,
+      "totalDenominator": 1536,
+      "totalPct": 4,
+      "exampleQuote": "The place is clean and so far  the food has been amazing. Great customer service as well.",
+      "monthlyEvolution": [
+        {
+          "month": "2024-01",
+          "label": "Jan 24",
+          "pct": 8,
+          "matches": 1,
+          "denominator": 13
+        },
+        {
+          "month": "2024-02",
+          "label": "Feb 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 7
+        },
+        {
+          "month": "2024-03",
+          "label": "Mar 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 9
+        },
+        {
+          "month": "2024-04",
+          "label": "Apr 24",
+          "pct": 13,
+          "matches": 1,
+          "denominator": 8
+        },
+        {
+          "month": "2024-05",
+          "label": "May 24",
+          "pct": 1,
+          "matches": 2,
+          "denominator": 150
+        },
+        {
+          "month": "2024-06",
+          "label": "Jun 24",
+          "pct": 4,
+          "matches": 3,
+          "denominator": 84
+        },
+        {
+          "month": "2024-07",
+          "label": "Jul 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 15
+        },
+        {
+          "month": "2024-08",
+          "label": "Aug 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 40
+        },
+        {
+          "month": "2024-09",
+          "label": "Sep 24",
+          "pct": 4,
+          "matches": 1,
+          "denominator": 24
+        },
+        {
+          "month": "2024-10",
+          "label": "Oct 24",
+          "pct": 7,
+          "matches": 1,
+          "denominator": 15
+        },
+        {
+          "month": "2024-11",
+          "label": "Nov 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 24
+        },
+        {
+          "month": "2024-12",
+          "label": "Dec 24",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 21
+        },
+        {
+          "month": "2025-01",
+          "label": "Jan 25",
+          "pct": 5,
+          "matches": 1,
+          "denominator": 22
+        },
+        {
+          "month": "2025-02",
+          "label": "Feb 25",
+          "pct": 15,
+          "matches": 5,
+          "denominator": 34
+        },
+        {
+          "month": "2025-03",
+          "label": "Mar 25",
+          "pct": 2,
+          "matches": 1,
+          "denominator": 54
+        },
+        {
+          "month": "2025-04",
+          "label": "Apr 25",
+          "pct": 2,
+          "matches": 1,
+          "denominator": 42
+        },
+        {
+          "month": "2025-05",
+          "label": "May 25",
+          "pct": 5,
+          "matches": 4,
+          "denominator": 77
+        },
+        {
+          "month": "2025-06",
+          "label": "Jun 25",
+          "pct": 7,
+          "matches": 5,
+          "denominator": 75
+        },
+        {
+          "month": "2025-07",
+          "label": "Jul 25",
+          "pct": 6,
+          "matches": 4,
+          "denominator": 72
+        },
+        {
+          "month": "2025-08",
+          "label": "Aug 25",
+          "pct": 1,
+          "matches": 1,
+          "denominator": 87
+        },
+        {
+          "month": "2025-09",
+          "label": "Sep 25",
+          "pct": 5,
+          "matches": 2,
+          "denominator": 43
+        },
+        {
+          "month": "2025-10",
+          "label": "Oct 25",
+          "pct": 7,
+          "matches": 4,
+          "denominator": 57
+        },
+        {
+          "month": "2025-11",
+          "label": "Nov 25",
+          "pct": 4,
+          "matches": 2,
+          "denominator": 48
+        },
+        {
+          "month": "2025-12",
+          "label": "Dec 25",
+          "pct": 0,
+          "matches": 0,
+          "denominator": 73
+        },
+        {
+          "month": "2026-01",
+          "label": "Jan 26",
+          "pct": 7,
+          "matches": 5,
+          "denominator": 69
+        },
+        {
+          "month": "2026-02",
+          "label": "Feb 26",
+          "pct": 3,
+          "matches": 2,
+          "denominator": 70
+        },
+        {
+          "month": "2026-03",
+          "label": "Mar 26",
+          "pct": 8,
+          "matches": 6,
+          "denominator": 80
+        },
+        {
+          "month": "2026-04",
+          "label": "Apr 26",
+          "pct": 4,
+          "matches": 8,
+          "denominator": 179
+        },
+        {
+          "month": "2026-05",
+          "label": "May 26",
+          "pct": 9,
+          "matches": 4,
+          "denominator": 44
+        }
+      ]
+    }
+  ]
+}
