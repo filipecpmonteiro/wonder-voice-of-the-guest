@@ -152,8 +152,8 @@ async function pickStrategicTop5(
     : "themes that customers consistently reward across multiple months";
   const actionGuide =
     direction === "issues"
-      ? "Recommend specific operational actions: kitchen consistency across concepts, staffing-to-volume, training, kiosk/app flow, order-accuracy checks when bundling concepts, pickup/delivery handoff, cleaning cadence, signage, or portion/temperature consistency."
-      : "Recommend specifically what to PROTECT or REPLICATE across the other shops in the fleet.";
+      ? "Recommend one concrete thing the manager can do. Examples: 'check that food stays hot at the pickup counter', 'have one cook in charge of each restaurant inside the shop', 'add another order screen so the line moves faster', 'double-check every bag before it leaves the counter'."
+      : "Recommend specifically what to PROTECT or REPLICATE across the other shops in the fleet, in plain English.";
 
   const prompt = `You are a hospitality operations analyst for Wonder (multi-restaurant fast-casual). ${BRAND_CONTEXT}
 
@@ -161,13 +161,24 @@ Below are themes extracted from ${directionWord} reviews (${direction === "issue
 
 Pick the TOP 5 ${ranked}. The point is for the manager to act on a SHORT LIST, not a laundry list.
 
+PLAIN ENGLISH RULES (very important):
+- Write like you are explaining the issue to a friend who has never worked in a restaurant.
+- BANNED words and phrases — never use any of these or close cousins:
+  SOP, SOPs, "standard operating procedure", QA, "quality assurance", UX, "user experience",
+  KPI, "throughput", "right-size", "staffing-to-volume", "value prop", "value perception",
+  "table-stakes", "differentiator", "premium positioning", "operational lever", "handoff protocol",
+  "audit cadence", "SKU", "ops", "execution", "concept-specific", "cross-concept", "leverage",
+  "drive loyalty", "fulfillment", "compliance".
+- If you catch yourself using a corporate or restaurant-industry word, rewrite that sentence in everyday words.
+- Keep sentences short and concrete. Use words like "check", "train", "add", "fix", "make sure", "watch", "ask", "count", "test".
+
 GUIDELINES:
 - Cluster aggressively: "long wait", "long line", "slow pickup", "waited forever" → ONE bucket.
-- Plain English bucket labels (3-7 words). E.g. "Long wait at pickup", "Cold or soggy food at handoff", "Standout friendly staff", "Strong variety across concepts".
-- For each, "whatToDo" = ONE specific operational action (<20 words). ${actionGuide}
+- Plain English bucket labels (3-7 words). E.g. "Long wait to get food", "Food arrives cold", "Staff are warm and helpful", "Lots of variety to choose from".
+- For each, "whatToDo" = ONE specific action (<20 words), no jargon. ${actionGuide}
 - Skip noise themes ("good", "bad", "fun", "nice", "great"), not actionable.
 - Skip owner-response leakage ("thanks for visiting").
-- For each, "rationale" = ONE sentence (<20 words) on why this bucket is strategic, e.g. "appears every month for 12 straight" or "spikes in summer, suggests staffing-vs-volume gap".
+- For each, "rationale" = ONE plain-English sentence (<20 words) on why this bucket matters, e.g. "shows up almost every month for two years" or "spikes every summer when shops are busiest".
 
 THEMES BY MONTH:
 ${monthLines}
