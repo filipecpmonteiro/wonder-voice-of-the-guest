@@ -75,7 +75,7 @@ export default async function Home() {
           <PendingHint kind="issue" />
         ) : (
           <ol className="mt-7 space-y-2.5">
-            {a.topIssues.map((b, i) => (
+            {[...a.topIssues].sort((x, y) => y.totalPct - x.totalPct).map((b, i) => (
               <StrategicBucketCard key={i} bucket={b} index={i} kind="issue" />
             ))}
           </ol>
